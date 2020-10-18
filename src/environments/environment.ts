@@ -5,7 +5,7 @@
 export const environment = {
     production: false,
     API: {
-        BASE_URL: 'http://localhost:3000',
+        BASE_URL: 'https://donuts-api.herokuapp.com',
     },
 };
 
